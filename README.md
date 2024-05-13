@@ -1,3 +1,3 @@
-# javaAngularSpringBout
+# javaAngularSpringBoot
 
 My first project
